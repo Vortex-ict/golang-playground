@@ -1,2 +1,2 @@
-# golang_playground
-All sort of goland test code
+# golang-playground
+All sorts of goland test code
